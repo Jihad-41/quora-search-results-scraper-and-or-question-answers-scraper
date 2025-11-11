@@ -1,0 +1,8 @@
+# Each non-empty line can be either:
+# - A Quora search URL
+# - A direct question URL
+#
+# Lines starting with '#' are treated as comments.
+
+https://www.quora.com/search?q=web3
+https://www.quora.com/What-is-Web3-and-why-does-it-matter
